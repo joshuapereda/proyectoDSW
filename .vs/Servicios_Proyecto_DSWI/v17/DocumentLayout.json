@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owen\\Desktop\\Desarrollo de servicios wed I\\proyecto\\Servicios_Proyecto_DSWI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F016AF9B-C0F5-4CB3-85E0-2738630153E7}|Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI.csproj|c:\\users\\owen\\desktop\\desarrollo de servicios wed i\\proyecto\\servicios_proyecto_dswi\\servicios_proyecto_dswi\\repositorio\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F016AF9B-C0F5-4CB3-85E0-2738630153E7}|Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI.csproj|solutionrelative:servicios_proyecto_dswi\\repositorio\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F016AF9B-C0F5-4CB3-85E0-2738630153E7}|Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI.csproj|c:\\users\\owen\\desktop\\desarrollo de servicios wed i\\proyecto\\servicios_proyecto_dswi\\servicios_proyecto_dswi\\repositorio\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F016AF9B-C0F5-4CB3-85E0-2738630153E7}|Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI.csproj|solutionrelative:servicios_proyecto_dswi\\repositorio\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F016AF9B-C0F5-4CB3-85E0-2738630153E7}|Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI.csproj|c:\\users\\owen\\desktop\\desarrollo de servicios wed i\\proyecto\\servicios_proyecto_dswi\\servicios_proyecto_dswi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F016AF9B-C0F5-4CB3-85E0-2738630153E7}|Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI.csproj|solutionrelative:servicios_proyecto_dswi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1261,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "C:\\Users\\Owen\\Desktop\\Desarrollo de servicios wed I\\proyecto\\Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI\\Repositorio\\Interfaces\\ICliente.cs",
+              "RelativeDocumentMoniker": "Servicios_Proyecto_DSWI\\Repositorio\\Interfaces\\ICliente.cs",
+              "ToolTip": "C:\\Users\\Owen\\Desktop\\Desarrollo de servicios wed I\\proyecto\\Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI\\Repositorio\\Interfaces\\ICliente.cs",
+              "RelativeToolTip": "Servicios_Proyecto_DSWI\\Repositorio\\Interfaces\\ICliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:54:18.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Owen\\Desktop\\Desarrollo de servicios wed I\\proyecto\\Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Servicios_Proyecto_DSWI\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Owen\\Desktop\\Desarrollo de servicios wed I\\proyecto\\Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI\\Models\\Cliente.cs",
+              "RelativeToolTip": "Servicios_Proyecto_DSWI\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:53:58.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Owen\\Desktop\\Desarrollo de servicios wed I\\proyecto\\Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI\\Repositorio\\DAO\\ClienteDAO.cs",
+              "RelativeDocumentMoniker": "Servicios_Proyecto_DSWI\\Repositorio\\DAO\\ClienteDAO.cs",
+              "ToolTip": "C:\\Users\\Owen\\Desktop\\Desarrollo de servicios wed I\\proyecto\\Servicios_Proyecto_DSWI\\Servicios_Proyecto_DSWI\\Repositorio\\DAO\\ClienteDAO.cs",
+              "RelativeToolTip": "Servicios_Proyecto_DSWI\\Repositorio\\DAO\\ClienteDAO.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:53:08.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

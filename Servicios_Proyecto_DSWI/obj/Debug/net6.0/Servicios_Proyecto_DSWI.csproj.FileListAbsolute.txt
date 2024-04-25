@@ -1,0 +1,7 @@
+C:\Users\Owen\Desktop\Desarrollo de servicios wed I\proyecto\Servicios_Proyecto_DSWI\Servicios_Proyecto_DSWI\obj\Debug\net6.0\Servicios_Proyecto_DSWI.csproj.AssemblyReference.cache
+C:\Users\Owen\Desktop\Desarrollo de servicios wed I\proyecto\Servicios_Proyecto_DSWI\Servicios_Proyecto_DSWI\obj\Debug\net6.0\Servicios_Proyecto_DSWI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\Desktop\Desarrollo de servicios wed I\proyecto\Servicios_Proyecto_DSWI\Servicios_Proyecto_DSWI\obj\Debug\net6.0\Servicios_Proyecto_DSWI.AssemblyInfoInputs.cache
+C:\Users\Owen\Desktop\Desarrollo de servicios wed I\proyecto\Servicios_Proyecto_DSWI\Servicios_Proyecto_DSWI\obj\Debug\net6.0\Servicios_Proyecto_DSWI.AssemblyInfo.cs
+C:\Users\Owen\Desktop\Desarrollo de servicios wed I\proyecto\Servicios_Proyecto_DSWI\Servicios_Proyecto_DSWI\obj\Debug\net6.0\Servicios_Proyecto_DSWI.csproj.CoreCompileInputs.cache
+C:\Users\Owen\Desktop\Desarrollo de servicios wed I\proyecto\Servicios_Proyecto_DSWI\Servicios_Proyecto_DSWI\obj\Debug\net6.0\Servicios_Proyecto_DSWI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Owen\Desktop\Desarrollo de servicios wed I\proyecto\Servicios_Proyecto_DSWI\Servicios_Proyecto_DSWI\obj\Debug\net6.0\Servicios_Proyecto_DSWI.MvcApplicationPartsAssemblyInfo.cache
